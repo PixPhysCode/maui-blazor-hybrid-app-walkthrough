@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Getting_Started {
+namespace GettingStarted {
     [Application]
     public class MainApplication : MauiApplication {
         public MainApplication(IntPtr handle, JniHandleOwnership ownership)
